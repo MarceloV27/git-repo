@@ -1,1 +1,2 @@
-This is an important file. 
+This is an important file, 
+Then stage and commit it
